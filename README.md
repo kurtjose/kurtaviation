@@ -1,1 +1,2 @@
-# kurtaviation
+# kurtaviationFundamentals of information
+
